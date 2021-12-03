@@ -1,9 +1,0 @@
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\bin\Debug\Account Generator.exe.config
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\bin\Debug\Account Generator.exe
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\bin\Debug\Account Generator.pdb
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account Generator.csprojResolveAssemblyReference.cache
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account_Generator.Form1.resources
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account_Generator.Properties.Resources.resources
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account Generator.csproj.GenerateResource.Cache
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account Generator.exe
-c:\users\grant\documents\visual studio 2015\Projects\Account Generator\Account Generator\obj\Debug\Account Generator.pdb
