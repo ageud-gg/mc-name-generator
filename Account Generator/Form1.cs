@@ -25,7 +25,7 @@ namespace Account_Generator
         {
             if (radioButton1.Checked)
             {
-                var accounts = new WebClient().DownloadString("https://pastebin.com/raw/sfVwq4pZ").Split('\n');
+                var accounts = new WebClient().DownloadString("https://pastebin.com/raw/no").Split('\n');
                 textBox1.Text = accounts[new Random().Next(0, accounts.Length)];
             }
         }
