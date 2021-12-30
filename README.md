@@ -1,4 +1,4 @@
-# mc-name-generator
+# mc-name-generator V2 RELEASE!
 
 
 generate minecraft names easily
