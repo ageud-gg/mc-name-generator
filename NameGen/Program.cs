@@ -43,7 +43,7 @@ namespace NameGen
             {
                 Console.Clear();
                 Console.WriteLine(title);
-                var accounts4 = new WebClient().DownloadString("https://pastebin.com/raw/sfVwq4pZ").Split('\n');
+                var accounts4 = new WebClient().DownloadString("https://pastebin.com/raw/NO").Split('\n');
                 string account44 = accounts4[new Random().Next(0, accounts4.Length)];
                 Console.WriteLine(account44);
                 Console.WriteLine("\n\n===================\n");
@@ -78,7 +78,7 @@ namespace NameGen
             {
                 Console.Clear();
                 Console.WriteLine(title);
-                var accounts5 = new WebClient().DownloadString("https://pastebin.com/raw/0nLYXyJ6").Split('\n');
+                var accounts5 = new WebClient().DownloadString("https://pastebin.com/raw/NO").Split('\n');
                 string accounts55 = accounts5[new Random().Next(0, accounts5.Length)];
                 Console.WriteLine(accounts55);
                 Console.WriteLine("\n\n===================\n");
